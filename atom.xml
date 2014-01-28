@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Peelman - GitHub]]></title>
+  <link href="http://peelman.github.io/atom.xml" rel="self"/>
+  <link href="http://peelman.github.io/"/>
+  <updated>2014-01-27T19:21:02-05:00</updated>
+  <id>http://peelman.github.io/</id>
+  <author>
+    <name><![CDATA[Nick Peelman]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
